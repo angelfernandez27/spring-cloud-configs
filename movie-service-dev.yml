@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8082
 
 spring:
   datasource:
@@ -18,5 +18,5 @@ spring:
 info:
   app:
     name: movie-service
-    description: Movie Service created 
+    description: Movie Service created
     version: 1.0.0
